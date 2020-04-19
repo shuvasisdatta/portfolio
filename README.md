@@ -1,6 +1,6 @@
 # Portfolio of SHUVASIS DATTA
 
-> **Please have a look at this [demo](http://www.shuvasisdatta.com)**
+> **Please have a look at this [demo](http://shuvasisdatta.com)**
 
 #### The Portfolio has divided into some Sections.
 
@@ -40,6 +40,10 @@
 
 ```
  local database.json file for storage all data
+```
+
+```
+ travis ci as ci/cd
 ```
 
 ## Project setup
