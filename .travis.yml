@@ -18,5 +18,6 @@ deploy:
   local_dir: dist # Folder to deploy on the gh-page
   fqdn: shuvasisdatta.com # Custom domain
   repo: shuvasisdatta/shuvasisdatta.github.io
+  target_branch: master
   on:
     branch: master
