@@ -1,0 +1,347 @@
+{
+  "educations": [
+    {
+      "title": "Docker for the Absolute Beginner - Hands On",
+      "institute": "KodeKloud",
+      "year": 2019,
+      "mark": "100%",
+      "certificate": "https://kodekloud.com/courses/296044/certificate"
+    },
+    {
+      "title": "Machine Learning",
+      "institute": "Stanford University",
+      "year": 2018,
+      "mark": "Ongoing",
+      "certificate": ""
+    },
+    {
+      "title": "Intro to Python for Data Science",
+      "institute": "DataCamp",
+      "year": 2017,
+      "mark": "100%",
+      "certificate": "https://www.datacamp.com/statement-of-accomplishment/course/7a0d1d072feca7e170f7b0f261636ca4408557f9"
+    },
+    {
+      "title": "The Complete PHP CodeIgniter Course - Beginner To Advanced",
+      "institute": "Udemy",
+      "year": 2016,
+      "mark": "100%",
+      "certificate": "https://www.udemy.com/certificate/UC-MS0YL83N/"
+    },
+    {
+      "title": "Python, Javascript, Learn the Command Line",
+      "institute": "Codecademy",
+      "year": 2014,
+      "mark": "100%",
+      "certificate": ""
+    }
+  ],
+
+  "portfolios": [
+    {
+      "id": 1,
+      "category": "Software",
+      "title": "DMS",
+      "keys": ["Laravel", "Vue.js"],
+      "image_url": "dms.png",
+      "description": "DMS | Plant/Factory Document Management System. About DMS : DMS is abbreviated as Document Management System, specially designed for Plant or Factory. DMS is fully a Rest API based System. Here Progressive Frontend Vue.js v2 is used for views that are very user-friendly to the client-side and laravel 6.2.0 is used as a backend to develop the REST API. Here are the feature of DMS System User Management. User Role Management. Department Management. Plant Management. Equipment Management. Category Management. Locker Management. Document Management. Advanced Filteration to all columns of Document Document Title Document Description Department Plant Equipment Category Locker Columns Can be Sorted Smart Dropdown with filtering feature in Column Filter",
+      "client": "Super Petrochemical Limited",
+      "month": "December",
+      "year": 2019
+    },
+    {
+      "id": 2,
+      "category": "Software",
+      "title": "SPL ERP",
+      "keys": ["Laravel"],
+      "image_url": "erp.png",
+      "description": "ERP (Enterprise Resource Planning) : Features are * User Management * Work-order Management (User access-wise status update) * Department Management * Equipment Management * Plant Management * Store Management * Part Management * Supplier Management * Stock Management with Stock History * Relational Database",
+      "client": "Super Petrochemical Limited",
+      "month": "August",
+      "year": 2019
+    },
+    {
+      "id": 3,
+      "category": "Industrial Automation",
+      "title": "Naphtha Splitter Process",
+      "keys": ["DCS of ABB"],
+      "image_url": "upgrade-dcs.jpg",
+      "description": "Total Naphtha Splitter & Sweetening Process Automation using DCS of ABB",
+      "client": "Super Petrochemical Limited",
+      "month": "March",
+      "year": 2019
+    },
+    {
+      "id": 4,
+      "category": "Industrial Automation",
+      "title": "RO Plant Automation",
+      "keys": ["Allen Bradley", "PLC", "IWS SCADA"],
+      "image_url": "scada.png",
+      "description": "SPL RO Plant Automation with S7-1200 PLC & SCADA with Indusoft Web Studio",
+      "client": "Super Petrochemical Limited",
+      "month": "January",
+      "year": 2019
+    },
+    {
+      "id": 5,
+      "category": "Industrial Automation",
+      "title": "Power House SCADA System",
+      "keys": ["IWS SCADA"],
+      "description": "Power House SCADA System using Indusoft Web Studio",
+      "image_url": "scada.png",
+      "client": "Super Petrochemical Limited",
+      "month": "November",
+      "year": 2018
+    },
+    {
+      "id": 6,
+      "category": "Embedded System",
+      "title": "Leather Area Measure",
+      "keys": ["ESP8266"],
+      "description": "Leather Area measurement and intelligent damaged or noisy sensor detection system using ESP8266 for tannery.",
+      "image_url": "embedded_system.png",
+      "client": "Stellar BD",
+      "month": "April",
+      "year": 2018
+    },
+    {
+      "id": 7,
+      "category": "Industrial Automation",
+      "title": "Resin Process Automation",
+      "keys": ["WinCC SCADA"],
+      "description": "Berger Resin Process Automation SCADA developed with WinCC",
+      "image_url": "scada.png",
+      "client": "Berger",
+      "month": "June",
+      "year": 2017
+    },
+    {
+      "id": 8,
+      "category": "Robotics",
+      "title": "Robo Nurse",
+      "keys": ["Robotics"],
+      "description": "Robo Nurse developed on 'Make-a-Thon' Hackathon in Dhaka organized by ICT Ministry, Bangladesh using Arduino, Bluetooth, ECG Chip, Temperature Chip, Custom build Andriod App",
+      "image_url": "Robo_Nurse.jpeg",
+      "month": "July",
+      "year": 2016
+    },
+    {
+      "id": 9,
+      "category": "Embedded System",
+      "title": "Smart Taxi Meter",
+      "keys": ["IoT", "Embedded Systems"],
+      "description": "Smart Taxi Meter using Arduino, RF Communication, IoT",
+      "image_url": "embedded_system.png",
+      "month": "July",
+      "year": 2014
+    },
+    {
+      "id": 10,
+      "category": "Embedded System",
+      "title": "Pathak",
+      "keys": ["Reading Device", "Raspberry Pi", "Pi Camera"],
+      "description": "Reading Device for Visually handicapped people in bengali language using Raspberry Pi and tesseract-ocr",
+      "image_url": "Pathak.jpeg",
+      "month": "April",
+      "year": 2014
+    },
+    {
+      "id": 11,
+      "category": "Robotics",
+      "title": "Maze Solver Robot",
+      "keys": ["Robotics"],
+      "description": "Maze Solver Robot with Object Gripping and Object Detecting Features",
+      "image_url": "maze_solver.jpg",
+      "month": "July",
+      "year": 2013
+    }
+  ],
+
+  "skillSets": [
+    {
+      "id": 1,
+      "category": "Industrial Automation",
+      "skills": [
+        {
+          "title": "SCADA",
+          "percentage": "85"
+        },
+        {
+          "title": "PLC(Siemens)",
+          "percentage": "70"
+        },
+        {
+          "title": "PLC(Allen Bradley)",
+          "percentage": "70"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Embedded Systems",
+      "skills": [
+        {
+          "title": "Arduino",
+          "percentage": "80"
+        },
+        {
+          "title": "Raspberry Pi",
+          "percentage": "70"
+        },
+        {
+          "title": "ESP",
+          "percentage": "60"
+        },
+        {
+          "title": "PIC",
+          "percentage": "60"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Programming Languages",
+      "skills": [
+        {
+          "title": "PHP",
+          "percentage": "75"
+        },
+        {
+          "title": "Python",
+          "percentage": "70"
+        },
+        {
+          "title": "C++",
+          "percentage": "65"
+        },
+        {
+          "title": "C#",
+          "percentage": "60"
+        },
+        {
+          "title": "MATLAB",
+          "percentage": "60"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Databases",
+      "skills": [
+        {
+          "title": "MySQL",
+          "percentage": "80"
+        },
+        {
+          "title": "MSSQL",
+          "percentage": "65"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Design Software",
+      "skills": [
+        {
+          "title": "Autocad 2D",
+          "percentage": "70"
+        },
+        {
+          "title": "Diptrace",
+          "percentage": "60"
+        },
+        {
+          "title": "Proteus",
+          "percentage": "60"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Others",
+      "skills": [
+        {
+          "title": "Git",
+          "percentage": "70"
+        },
+        {
+          "title": "OpenCV",
+          "percentage": "40"
+        }
+      ]
+    }
+  ],
+
+  "researches": [
+    {
+      "division": "Computer Vision & Image Processing",
+      "sub_division": "Optical Character Recognition & Face Detection",
+      "fa_icon": "image"
+    },
+    {
+      "division": "Embedded Systems and IoT",
+      "sub_division": "Arduino, ESP, Raspberry Pi, PIC",
+      "fa_icon": "microchip"
+    },
+    {
+      "division": "Industrial Automation & Instrumentation",
+      "sub_division": "PLC, SCADA, HMI, DCS",
+      "fa_icon": "industry"
+    },
+    {
+      "division": "Machine Learning",
+      "sub_division": "AI using Machine Learning",
+      "fa_icon": "university"
+    }
+  ],
+
+  "publications": [
+    {
+      "title": "Implementation of a reading device for bengali speaking visually handicapped people",
+      "status": "published",
+      "published_year": "2016",
+      "url": "https://ieeexplore.ieee.org/document/8288999"
+    }
+  ],
+
+  "socialProfiles": [
+    {
+      "title": "linkedin",
+      "url": "https://www.linkedin.com/in/shuvasisdatta/",
+      "icon_prefix": "fab",
+      "icon": "linkedin-in",
+      "bg_class": "is-info"
+    },
+    {
+      "title": "github",
+      "url": "https://github.com/shuvasisdatta",
+      "icon_prefix": "fab",
+      "icon": "github",
+      "bg_class": "is-black"
+    },
+    {
+      "title": "facebook",
+      "url": "https://facebook.com/shuvasis.datta",
+      "icon_prefix": "fab",
+      "icon": "facebook-f",
+      "bg_class": "is-link"
+    },
+    {
+      "title": "Email",
+      "url": "mailto:shuvasisdatta@gmail.com",
+      "icon_prefix": "fab",
+      "icon": "google",
+      "bg_class": "is-danger"
+    },
+    {
+      "title": "Phone",
+      "url": "tel:+8801676383470",
+      "icon_prefix": "fas",
+      "icon": "phone-alt",
+      "bg_class": "is-primary"
+    }
+  ],
+
+  "resumeUrl": "https://drive.google.com/open?id=1_nR_5aDkOBMjscz-eVgO0zX0BEkaKnpe",
+  "profileImageUrl": "profile.jpg"
+}
