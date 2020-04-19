@@ -17,6 +17,6 @@ deploy:
   keep_history: true
   local_dir: dist # Folder to deploy on the gh-page
   fqdn: shuvasisdatta.com # Custom domain
-  repo: shuvasisdatta/shuvasisdatta@github.io
+  repo: shuvasisdatta/shuvasisdatta.github.io
   on:
     branch: master
