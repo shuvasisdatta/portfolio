@@ -1,6 +1,8 @@
-# Portfolio of SHUVASIS DATTA
+# Portfolio of SHUVASIS DATTA [![Build Status](https://travis-ci.com/shuvasisdatta/portfolio.svg?branch=master)](https://travis-ci.com/shuvasisdatta/portfolio)
 
-> **Please have a look at this [demo](http://shuvasisdatta.com)**
+[![Build Status](https://travis-ci.com/shuvasisdatta/portfolio.svg?branch=master)](https://travis-ci.com/shuvasisdatta/portfolio)
+
+> Please have a look at this [demo](http://shuvasisdatta.com)
 
 #### The Portfolio has divided into some Sections.
 
