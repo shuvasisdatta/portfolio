@@ -74,6 +74,9 @@ const routes = [
     // catch all 404 - define at the very end
     path: "*",
     component: () => import("@/components/404.vue"),
+    meta: {
+      title: "404",
+    },
   },
 ];
 
