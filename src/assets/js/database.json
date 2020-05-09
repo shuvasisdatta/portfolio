@@ -1,22 +1,30 @@
 {
   "educations": [
     {
+      "title": "Introduction to Flutter Development Using Dart",
+      "institute": "The App Brewery",
+      "institute_url": "//www.appbrewery.co/",
+      "year": 2020,
+      "mark": "100%"
+    },
+    {
       "title": "Docker for the Absolute Beginner - Hands On",
       "institute": "KodeKloud",
+      "institute_url": "//kodekloud.com/",
       "year": 2019,
-      "mark": "100%",
-      "certificate": "https://kodekloud.com/courses/296044/certificate"
+      "mark": "100%"
     },
     {
       "title": "Machine Learning",
       "institute": "Stanford University",
+      "institute_url": "//www.coursera.org/stanford",
       "year": 2018,
-      "mark": "Ongoing",
-      "certificate": ""
+      "mark": "Ongoing"
     },
     {
       "title": "Intro to Python for Data Science",
       "institute": "DataCamp",
+      "institute_url": "//www.datacamp.com",
       "year": 2017,
       "mark": "100%",
       "certificate": "https://www.datacamp.com/statement-of-accomplishment/course/7a0d1d072feca7e170f7b0f261636ca4408557f9"
@@ -24,6 +32,7 @@
     {
       "title": "The Complete PHP CodeIgniter Course - Beginner To Advanced",
       "institute": "Udemy",
+      "institute_url": "//www.udemy.com",
       "year": 2016,
       "mark": "100%",
       "certificate": "https://www.udemy.com/certificate/UC-MS0YL83N/"
@@ -31,18 +40,20 @@
     {
       "title": "Python, Javascript, Learn the Command Line",
       "institute": "Codecademy",
+      "institute_url": "//www.codecademy.com/",
       "year": 2014,
-      "mark": "100%",
-      "certificate": ""
+      "mark": "100%"
     }
   ],
-
   "portfolios": [
     {
       "id": 1,
       "category": "Software",
       "title": "DMS",
-      "keys": ["Laravel", "Vue.js"],
+      "keys": [
+        "Laravel",
+        "Vue.js"
+      ],
       "image_url": "dms.png",
       "description": "DMS | Plant/Factory Document Management System. About DMS : DMS is abbreviated as Document Management System, specially designed for Plant or Factory. DMS is fully a Rest API based System. Here Progressive Frontend Vue.js v2 is used for views that are very user-friendly to the client-side and laravel 6.2.0 is used as a backend to develop the REST API. Here are the feature of DMS System User Management. User Role Management. Department Management. Plant Management. Equipment Management. Category Management. Locker Management. Document Management. Advanced Filteration to all columns of Document Document Title Document Description Department Plant Equipment Category Locker Columns Can be Sorted Smart Dropdown with filtering feature in Column Filter",
       "client": "Super Petrochemical Limited",
@@ -53,7 +64,9 @@
       "id": 2,
       "category": "Software",
       "title": "SPL ERP",
-      "keys": ["Laravel"],
+      "keys": [
+        "Laravel"
+      ],
       "image_url": "erp.png",
       "description": "ERP (Enterprise Resource Planning) : Features are * User Management * Work-order Management (User access-wise status update) * Department Management * Equipment Management * Plant Management * Store Management * Part Management * Supplier Management * Stock Management with Stock History * Relational Database",
       "client": "Super Petrochemical Limited",
@@ -64,7 +77,9 @@
       "id": 3,
       "category": "Industrial Automation",
       "title": "Naphtha Splitter Process",
-      "keys": ["DCS of ABB"],
+      "keys": [
+        "DCS of ABB"
+      ],
       "image_url": "upgrade-dcs.jpg",
       "description": "Total Naphtha Splitter & Sweetening Process Automation using DCS of ABB",
       "client": "Super Petrochemical Limited",
@@ -75,7 +90,11 @@
       "id": 4,
       "category": "Industrial Automation",
       "title": "RO Plant Automation",
-      "keys": ["Allen Bradley", "PLC", "IWS SCADA"],
+      "keys": [
+        "Allen Bradley",
+        "PLC",
+        "IWS SCADA"
+      ],
       "image_url": "scada.png",
       "description": "SPL RO Plant Automation with S7-1200 PLC & SCADA with Indusoft Web Studio",
       "client": "Super Petrochemical Limited",
@@ -86,7 +105,9 @@
       "id": 5,
       "category": "Industrial Automation",
       "title": "Power House SCADA System",
-      "keys": ["IWS SCADA"],
+      "keys": [
+        "IWS SCADA"
+      ],
       "description": "Power House SCADA System using Indusoft Web Studio",
       "image_url": "scada.png",
       "client": "Super Petrochemical Limited",
@@ -97,7 +118,9 @@
       "id": 6,
       "category": "Embedded System",
       "title": "Leather Area Measure",
-      "keys": ["ESP8266"],
+      "keys": [
+        "ESP8266"
+      ],
       "description": "Leather Area measurement and intelligent damaged or noisy sensor detection system using ESP8266 for tannery.",
       "image_url": "embedded_system.png",
       "client": "Stellar BD",
@@ -108,7 +131,9 @@
       "id": 7,
       "category": "Industrial Automation",
       "title": "Resin Process Automation",
-      "keys": ["WinCC SCADA"],
+      "keys": [
+        "WinCC SCADA"
+      ],
       "description": "Berger Resin Process Automation SCADA developed with WinCC",
       "image_url": "scada.png",
       "client": "Berger",
@@ -119,7 +144,9 @@
       "id": 8,
       "category": "Robotics",
       "title": "Robo Nurse",
-      "keys": ["Robotics"],
+      "keys": [
+        "Robotics"
+      ],
       "description": "Robo Nurse developed on 'Make-a-Thon' Hackathon in Dhaka organized by ICT Ministry, Bangladesh using Arduino, Bluetooth, ECG Chip, Temperature Chip, Custom build Andriod App",
       "image_url": "Robo_Nurse.jpeg",
       "month": "July",
@@ -129,7 +156,10 @@
       "id": 9,
       "category": "Embedded System",
       "title": "Smart Taxi Meter",
-      "keys": ["IoT", "Embedded Systems"],
+      "keys": [
+        "IoT",
+        "Embedded Systems"
+      ],
       "description": "Smart Taxi Meter using Arduino, RF Communication, IoT",
       "image_url": "embedded_system.png",
       "month": "July",
@@ -139,7 +169,11 @@
       "id": 10,
       "category": "Embedded System",
       "title": "Pathak",
-      "keys": ["Reading Device", "Raspberry Pi", "Pi Camera"],
+      "keys": [
+        "Reading Device",
+        "Raspberry Pi",
+        "Pi Camera"
+      ],
       "description": "Reading Device for Visually handicapped people in bengali language using Raspberry Pi and tesseract-ocr",
       "image_url": "Pathak.jpeg",
       "month": "April",
@@ -149,14 +183,15 @@
       "id": 11,
       "category": "Robotics",
       "title": "Maze Solver Robot",
-      "keys": ["Robotics"],
+      "keys": [
+        "Robotics"
+      ],
       "description": "Maze Solver Robot with Object Gripping and Object Detecting Features",
       "image_url": "maze_solver.jpg",
       "month": "July",
       "year": 2013
     }
   ],
-
   "skillSets": [
     {
       "id": 1,
@@ -275,7 +310,6 @@
       ]
     }
   ],
-
   "researches": [
     {
       "division": "Computer Vision & Image Processing",
@@ -298,7 +332,6 @@
       "fa_icon": "university"
     }
   ],
-
   "publications": [
     {
       "title": "Implementation of a reading device for bengali speaking visually handicapped people",
@@ -307,7 +340,6 @@
       "url": "https://ieeexplore.ieee.org/document/8288999"
     }
   ],
-
   "socialProfiles": [
     {
       "title": "linkedin",
@@ -345,7 +377,6 @@
       "bg_class": "is-primary"
     }
   ],
-
   "resumeUrl": "https://drive.google.com/open?id=1_nR_5aDkOBMjscz-eVgO0zX0BEkaKnpe",
   "profileImageUrl": "profile.jpg"
 }
