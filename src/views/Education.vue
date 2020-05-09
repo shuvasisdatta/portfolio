@@ -26,7 +26,7 @@
           <div class="column is-two-fifths">
             <div class="has-text-right-desktop">
               <div class="tags has-addons">
-                <span class="tag is-medium is-dark">{{ edu.institute }}</span>
+                <span class="tag is-medium is-dark"><a class="has-text-white" :href="edu.institute_url" target="_blank">{{ edu.institute }}</a></span>
                 <span class="tag is-medium is-info">{{ edu.year }}</span>
                 <span class="tag is-medium is-success">{{ edu.mark }}</span>
               </div>
