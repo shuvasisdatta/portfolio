@@ -3,12 +3,8 @@
     <div class="container has-text-white">
       <h2 class="title is-uppercase">Contact</h2>
       <div class="columns">
-        <div class="column has-text-warning">
-          Phone: +8801676383470, +8801729062888
-        </div>
-        <div class="column has-text-warning">
-          E-mail: shuvasisdatta@gmail.com
-        </div>
+        <div class="column has-text-warning">Phone: {{ myPhone }}</div>
+        <div class="column has-text-warning">E-mail: {{ myEmail }}</div>
       </div>
 
       <form
@@ -27,9 +23,7 @@
               v-model="name"
               placeholder="Your Name *"
             />
-            <span v-if="errors.includes('name')" class="has-text-danger"
-              >Your name is required</span
-            >
+            <span v-if="errors.includes('name')" class="has-text-danger">Your name is required</span>
           </div>
           <div class="column is-6 control">
             <input
@@ -40,9 +34,7 @@
               v-model="email"
               placeholder="Your Email *"
             />
-            <span v-if="errors.includes('email')" class="has-text-danger"
-              >Your email is required</span
-            >
+            <span v-if="errors.includes('email')" class="has-text-danger">Your email is required</span>
           </div>
         </div>
         <div class="columns">
@@ -54,20 +46,12 @@
               v-model="msg"
               placeholder="Your Message *"
             ></textarea>
-            <span v-if="errors.includes('msg')" class="has-text-danger"
-              >Message Body is required</span
-            >
+            <span v-if="errors.includes('msg')" class="has-text-danger">Message Body is required</span>
           </div>
         </div>
         <div class="columns">
           <div class="column is-12">
-            <button
-              type="submit"
-              name="submit"
-              class="button is-primary is-rounded"
-            >
-              Send Message
-            </button>
+            <button type="submit" name="submit" class="button is-primary is-rounded">Send Message</button>
           </div>
         </div>
       </form>
@@ -76,8 +60,7 @@
 </template>
 
 <script>
-// @ is an alias to /src
-
+import { socialProfiles } from "@/assets/js/database";
 export default {
   name: "Contact",
   data() {
@@ -86,6 +69,8 @@ export default {
       email: null,
       msg: null,
       errors: [],
+      myEmail: socialProfiles.filter((x) => x.title == 'Email')[0].url.replace('mailto:', ''),
+      myPhone: socialProfiles.filter((x) => x.title == 'Phone')[0].url.replace('tel:', '')
     };
   },
   methods: {
