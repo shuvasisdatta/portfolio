@@ -1,11 +1,12 @@
 {
   "educations": [
     {
-      "title": "Introduction to Flutter Development Using Dart",
-      "institute": "The App Brewery",
-      "institute_url": "//www.appbrewery.co/",
+      "title": "Neural Networks and Deep Learning",
+      "institute": "Coursera",
+      "institute_url": "//www.coursera.org",
       "year": 2020,
-      "mark": "100%"
+      "mark": "100%",
+      "certificate": "https://www.coursera.org/account/accomplishments/certificate/7HDEPBBWP44G"
     },
     {
       "title": "Docker for the Absolute Beginner - Hands On",
