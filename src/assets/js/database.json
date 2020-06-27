@@ -210,6 +210,10 @@
           "percentage": "85"
         },
         {
+          "title": "HMI",
+          "percentage": "80"
+        },
+        {
           "title": "PLC(Siemens)",
           "percentage": "70"
         },
