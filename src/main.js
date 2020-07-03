@@ -1,6 +1,12 @@
 import Vue from "vue";
 import App from "./App.vue";
 import router from "./router";
+// Google Analytics for VueJS
+import VueGtag from "vue-gtag"; 
+
+Vue.use(VueGtag, {
+  config: { id: "UA-150064197-2" }
+}, router);
 
 // custom scss. where the bulma and other css or scss files are included.
 import "@/assets/sass/app.scss";
