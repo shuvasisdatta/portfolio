@@ -6,7 +6,7 @@
         Welcome to my place!
       </h2>
       <h2 class="title is-uppercase is-size-3-tablet has-text-white">
-        It's nice to meet you.
+        It's nice to meet you
       </h2>
       <router-link
         to="/about"
