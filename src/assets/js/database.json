@@ -236,6 +236,10 @@
         {
           "title": "PLC(Allen Bradley)",
           "percentage": "70"
+        },
+        {
+          "title": "DCS(ABB-800xA)",
+          "percentage": "65"
         }
       ]
     },
