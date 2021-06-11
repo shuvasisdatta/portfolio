@@ -100,7 +100,7 @@
     {
       "id": 3,
       "category": "Industrial Automation",
-      "title": "Total Naphtha Splitter Process Automation",
+      "title": "Naphtha Splitter Process Automation",
       "keys": [
         "ABB800xA DCS"
       ],
@@ -195,8 +195,7 @@
       "title": "Pathak",
       "keys": [
         "Image Processing",
-        "Raspberry Pi",
-        "Pi Camera"
+        "Raspberry Pi"
       ],
       "description": "Reading Device for Visually handicapped people in bengali language using Raspberry Pi and tesseract-ocr",
       "image_url": "Pathak.jpeg",
@@ -219,7 +218,7 @@
     {
       "id": 12,
       "category": "Industrial Automation",
-      "title": "Naphtha Hydrotreater Process Automation",
+      "title": "Naphtha Hydrotreater Automation",
       "keys": [
         "ABB800xA DCS"
       ],
@@ -311,20 +310,6 @@
     },
     {
       "id": 4,
-      "category": "Databases",
-      "skills": [
-        {
-          "title": "MySQL",
-          "percentage": "80"
-        },
-        {
-          "title": "MSSQL",
-          "percentage": "65"
-        }
-      ]
-    },
-    {
-      "id": 5,
       "category": "Design Software",
       "skills": [
         {
@@ -338,6 +323,20 @@
         {
           "title": "Proteus",
           "percentage": "60"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Databases",
+      "skills": [
+        {
+          "title": "MySQL",
+          "percentage": "80"
+        },
+        {
+          "title": "MSSQL",
+          "percentage": "65"
         }
       ]
     },
