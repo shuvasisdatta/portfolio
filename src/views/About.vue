@@ -58,9 +58,16 @@
           <div class="column has-text-left-desktop">
             <a
               class="button is-link is-rounded"
+              :href="academicCvUrl"
+              target="_blank"
+              >Academic CV</a
+            >
+            &nbsp;
+            <a
+              class="button is-link is-rounded"
               :href="resumeUrl"
               target="_blank"
-              >My Resume</a
+              >Professional Resume</a
             >
           </div>
         </div>
@@ -73,6 +80,7 @@
 import {
   socialProfiles,
   resumeUrl,
+  academicCvUrl,
   profileImageUrl,
 } from "@/assets/js/database";
 export default {
@@ -82,6 +90,7 @@ export default {
     return {
       socialProfiles: socialProfiles,
       resumeUrl: resumeUrl,
+      academicCvUrl: academicCvUrl,
       profileImageUrl: profileImageUrl,
     };
   },
