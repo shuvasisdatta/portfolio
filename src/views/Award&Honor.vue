@@ -5,8 +5,15 @@
       <div class="columns">
         <div class="column">
           <figure class="image is-5by4">
-            <img src="@/assets/img/awards/Pathak_Award.jpg" />
+            <img
+              src="@/assets/img/awards/Pathak_Award.jpg"
+              title="Pathak"
+              alt="Pathak"
+            />
           </figure>
+          <div class="text-center is-uppercase">
+            Microsoft Young Bangla Award 2017
+          </div>
         </div>
         <div class="column has-text-justified">
           <article>
@@ -19,7 +26,7 @@
             the Government of Bangladesh on Information and Communication
             Technology.
             <br />
-            <br />About Our Project - পাঠক (Pathak)
+            <br />About the project - পাঠক (Pathak)
             <hr />
             We built a Electronic Reading Device for Visually Impaired people to
             read out the text- books, magazines written in bengali so that they
@@ -34,11 +41,19 @@
         </div>
       </div>
       <br />
+      <br />
       <div class="columns">
         <div class="column">
           <figure class="image is-5by4">
-            <img src="@/assets/img/awards/Robo_Nurse.jpeg" />
+            <img
+              src="@/assets/img/awards/Robo_Nurse.jpeg"
+              title="Robo Nurse"
+              alt="Robo Nurse"
+            />
           </figure>
+          <div class="text-center is-uppercase">
+            Robo Nurse - Make A Thon 2016
+          </div>
         </div>
         <div class="column has-text-justified">
           <article>
@@ -46,7 +61,7 @@
             "Make-A-Thon" organised by the World Bank and BetterStories Limited
             in partnership with the ICT Division of Bangladesh in 2016.
             <br />
-            <br />About Our Project - Robo Nurse
+            <br />About the project - Robo Nurse
             <hr />
             A Robot that provide basic healthcare services to a patient. It can
             measure ECG, temperature and other factors which are send
