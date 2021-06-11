@@ -6,7 +6,7 @@
         <div class="column is-one-quarter is-centered">
           <div class="colums">
             <div class="column">
-              <figure class="image is-128x128" style="margin: 0 auto;">
+              <figure class="image is-128x128" style="margin: 0 auto">
                 <img
                   class="is-rounded"
                   :src="require(`@/assets/img/${profileImageUrl}`)"
@@ -42,14 +42,17 @@
               Hi, I am Shuvasis Datta graduated in Electrical & Electronic
               Engineering from Chittagong University of Engineering & Technology
               in March 2017. I enjoyed learning and working in Robo Mechatronics
-              Association, Bangladesh as IT secretary in the whole period of my
-              undergraduate university. I believe in sharing knowledge that's
-              why I am an open source enthusiast, all of my work is open sourced
-              and always will be. I have a keen interest in Robotics, Embedded
-              Systems, Automation and Mathematics. Besides, I love to read
-              books, online technical and non-technical articles. In short, I
-              enjoy coding, traveling, watching movies/tv-series in my spare
-              time.
+              Association, Bangladesh as IT secretary during my undergraduate. I
+              believe in sharing knowledge that's why I am an open source
+              minded. I am expert in DCS (Emerson DeltaV S & M Series, ABB
+              800xA), PLC (Allen-Bradley, Siemens), SCADA(Indusoft Web Studio,
+              HMI (PanelView), Embedded Systems (Microcontroller, Arduino, ESP,
+              Raspberry Pi), Robotics, AutoCAD, MATLAB, IoT, and Full Stack App
+              Development. I have keen interest in Machine Learning, Image
+              Processing, Embedded Systems, Robotics, Automation, and
+              Mathematics. Besides, I love to read books, online technical and
+              non-technical articles. In short, I enjoy coding, watching movies
+              and tv-series in my spare time.
             </article>
           </div>
           <div class="column has-text-left-desktop">
