@@ -63,12 +63,12 @@
               >Academic CV</a
             >
             &nbsp;
-            <a
+            <!-- <a
               class="button is-link is-rounded"
               :href="resumeUrl"
               target="_blank"
               >Professional Resume</a
-            >
+            > -->
           </div>
         </div>
       </div>
