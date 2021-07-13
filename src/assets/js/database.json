@@ -408,6 +408,13 @@
       "bg_class": "is-link"
     },
     {
+      "title": "Skype",
+      "url": "skype:shuvasis.datta?chat",
+      "icon_prefix": "fab",
+      "icon": "skype",
+      "bg_class": "is-info"
+    },
+    {
       "title": "Email",
       "url": "mailto:shuvasisdatta@gmail.com",
       "icon_prefix": "fab",

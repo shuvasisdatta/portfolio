@@ -29,6 +29,7 @@ import {
   faLinkedinIn,
   faGithub,
   faGoogle,
+  faSkype,
 } from "@fortawesome/free-brands-svg-icons";
 
 import {
@@ -47,7 +48,8 @@ library.add(
   faFacebookF,
   faLinkedinIn,
   faGithub,
-  faGoogle
+  faGoogle,
+  faSkype,
 );
 Vue.component("fa-icon", FontAwesomeIcon);
 Vue.component("fa-layers", FontAwesomeLayers);
