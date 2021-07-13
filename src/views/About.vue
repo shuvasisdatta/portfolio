@@ -44,7 +44,7 @@
               in March 2017. I enjoyed learning and working in Robo Mechatronics
               Association, Bangladesh as IT secretary during my undergraduate. I
               believe in sharing knowledge that's why I am an open source
-              minded. I am expert in DCS (Emerson DeltaV S & M Series, ABB
+              minded. I am skilled in DCS (Emerson DeltaV S & M Series, ABB
               800xA), PLC (Allen-Bradley, Siemens), SCADA(Indusoft Web Studio,
               HMI (PanelView), Embedded Systems (Microcontroller, Arduino, ESP,
               Raspberry Pi), Robotics, AutoCAD, MATLAB, IoT, and Full Stack App
