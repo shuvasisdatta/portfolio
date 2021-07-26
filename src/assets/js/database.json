@@ -358,23 +358,23 @@
   "researches": [
     {
       "division": "Machine Learning",
-      "sub_division": "AI using Machine Learning",
+      "sub_division": "AI, ML, DL, NLP",
       "fa_icon": "university"
     },
     {
       "division": "Computer Vision & Image Processing",
-      "sub_division": "Optical Character Recognition & Face Detection",
+      "sub_division": "Optical Character Recognition, Face Detection",
       "fa_icon": "image"
     },
     {
-      "division": "Robotics, Embedded Systems, and IoT",
-      "sub_division": "Arduino, ESP, Raspberry Pi, PIC",
+      "division": "Robotics, Embedded Systems, IoT",
+      "sub_division": "Arduino, ESP, Raspberry Pi, PIC, PLC, SCADA",
       "fa_icon": "microchip"
     },
     {
-      "division": "Automation & Robotics",
-      "sub_division": "PLC, SCADA, HMI, DCS",
-      "fa_icon": "industry"
+      "division": "Biomedical",
+      "sub_division": "Medical Imaging, Surgical Robots, Neural Engineering",
+      "fa_icon": "snowflake"
     }
   ],
   "publications": [
