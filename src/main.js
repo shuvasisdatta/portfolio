@@ -22,6 +22,7 @@ import {
   faIndustry,
   faUniversity,
   faRobot,
+  faSnowflake,
 } from "@fortawesome/free-solid-svg-icons";
 
 import {
@@ -50,6 +51,7 @@ library.add(
   faGithub,
   faGoogle,
   faSkype,
+  faSnowflake,
 );
 Vue.component("fa-icon", FontAwesomeIcon);
 Vue.component("fa-layers", FontAwesomeLayers);
