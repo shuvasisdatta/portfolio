@@ -19,7 +19,7 @@
           class="navbar-burger burger"
           :class="is_active ? 'is-active' : false"
           data-target="mainNavigation"
-          @click="is_active = !is_active"
+          @click="is_active = true"
         >
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
