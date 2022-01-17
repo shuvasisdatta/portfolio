@@ -38,7 +38,7 @@
             v-for="menu in menus"
             :key="menu.url"
             :to="menu.url"
-            @click="selected_menu = menu"
+            @click="selected_menu = menu; is_active = false"
             >{{ menu.title }}</router-link
           >
         </div>
